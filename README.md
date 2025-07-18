@@ -14,10 +14,7 @@ Welcome to the Bakery Website repository! This project is a simple and visually 
   - Example images: `alexandru-stavrica-170390-800x760.jpg`, `bakery-color.png`, etc.
 
 ## How to Use
-1. Clone the repository:
-   ```bash
-   [https://github.com/eman-mohamed-git/Bakery-Website.git]
-   ```
+1. Clone the repository: https://github.com/eman-mohamed-git/Bakery-Website.git
 2. Open `Bakery.html` in your preferred web browser to view the website.
 
 ## Contributing
